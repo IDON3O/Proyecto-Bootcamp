@@ -4,7 +4,7 @@ Proyecto Final de Bootcamp > Tu compañero inteligente para planificar y disfrut
 
 🚀 Despliegue (Demo)
 
-Puedes ver la aplicación funcionando en vivo aquí: https://github.com/IDON3O/Proyecto-Bootcamp
+Puedes ver la aplicación funcionando en vivo aquí: asistente-turistico.vercel.app
 
 👉 Visitar Asistente Turístico
 
@@ -12,7 +12,7 @@ Puedes ver la aplicación funcionando en vivo aquí: https://github.com/IDON3O/P
 
 Asistente Turístico es una aplicación web diseñada para facilitar la experiencia de los viajeros. Este proyecto fue desarrollado como parte del Proyecto de Bootcamp, con el objetivo de demostrar habilidades en desarrollo web full-stack, integración de APIs y diseño de interfaces de usuario (UI/UX).
 
-La aplicación permite a los usuarios [describe aquí brevemente qué hace la app, por ejemplo: descubrir destinos, gestionar itinerarios, consultar el clima o chatear con una IA sobre recomendaciones locales].
+La aplicación permite a los usuarios Consultar Sitios turisticos asistido con Inteligencia Artificial.
 
 ✨ Características Principales
 
@@ -33,7 +33,7 @@ Las sugerencias y pull requests son bienvenidas. Para cambios importantes, por f
 [Julian Osorio / IDON3O] - Desarrollo Inicial - Perfil de GitHu
 [Jhon Lemus / Jhonlemus05] - Desarrollo Inicial - Perfil de GitHu
 [Juan Aguirre / NekoCamiloAV] - Desarrollo Inicial - Perfil de GitHu
-[Juan Vanegas / ] - Desarrollo Inicial - Perfil de GitHu
+[Juan Vanegas / Nomad-Van95] - Desarrollo Inicial - Perfil de GitHu
 
 
 
