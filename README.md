@@ -4,7 +4,7 @@ Proyecto Final de Bootcamp > Tu compañero inteligente para planificar y disfrut
 
 🚀 Despliegue (Demo)
 
-Puedes ver la aplicación funcionando en vivo aquí: asistente-turistico.vercel.app
+Puedes ver la aplicación funcionando en vivo aquí:
 
 👉 Visitar Asistente Turístico
 
@@ -12,30 +12,41 @@ Puedes ver la aplicación funcionando en vivo aquí: asistente-turistico.vercel.
 
 Asistente Turístico es una aplicación web diseñada para facilitar la experiencia de los viajeros. Este proyecto fue desarrollado como parte del Proyecto de Bootcamp, con el objetivo de demostrar habilidades en desarrollo web full-stack, integración de APIs y diseño de interfaces de usuario (UI/UX).
 
-La aplicación permite a los usuarios Consultar Sitios turisticos asistido con Inteligencia Artificial.
+La aplicación permite a los usuarios consultar sitios turísticos asistidos con Inteligencia Artificial, obteniendo información precisa y personalizada para sus aventuras.
 
 ✨ Características Principales
 
-Interfaz Intuitiva: Diseño responsive adaptable a móviles y escritorio.
+📱 Interfaz Intuitiva: Diseño responsive adaptable a móviles y escritorio.
 
-Recomendaciones: Sugerencias basadas en [tus criterios/ubicación].
+🤖 Asistencia IA: Consultas de sitios turísticos potenciadas por inteligencia artificial.
 
-Planificación: Herramientas para organizar tu día a día durante el viaje.
+🗺️ Recomendaciones: Sugerencias basadas en tus criterios de búsqueda.
 
-Información en tiempo real: [Si aplica: Clima, mapas, precios].
+📅 Planificación: Herramientas para organizar tu itinerario de viaje.
+
+⚡ Información al instante: Datos relevantes para la toma de decisiones.
+
+✒️ Autores
+
+Este proyecto fue desarrollado por:
+
+Julian Osorio - Desarrollo Inicial - @IDON3O
+
+Jhon Lemus - Desarrollo Inicial - @Jhonlemus05
+
+Juan Aguirre - Desarrollo Inicial - @NekoCamiloAV
+
+Juan Vanegas - Desarrollo Inicial - @Nomad-Van95
 
 🤝 Contribución
 
 Las sugerencias y pull requests son bienvenidas. Para cambios importantes, por favor abre primero un issue para discutir lo que te gustaría cambiar.
 
-✒️ Autores
+<div align="center">
 
-[Julian Osorio / IDON3O] - Desarrollo Inicial - Perfil de GitHu
-[Jhon Lemus / Jhonlemus05] - Desarrollo Inicial - Perfil de GitHu
-[Juan Aguirre / NekoCamiloAV] - Desarrollo Inicial - Perfil de GitHu
-[Juan Vanegas / Nomad-Van95] - Desarrollo Inicial - Perfil de GitHu
 
 
 
 
 Hecho con ❤️ durante el Bootcamp.
+</div>
