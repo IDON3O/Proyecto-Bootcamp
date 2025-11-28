@@ -4,7 +4,7 @@ Proyecto Final de Bootcamp > Tu compañero inteligente para planificar y disfrut
 
 🚀 Despliegue (Demo)
 
-Puedes ver la aplicación funcionando en vivo aquí:
+Puedes ver la aplicación funcionando en vivo aquí: asistente-turistico.vercel.app
 
 👉 Visitar Asistente Turístico
 
