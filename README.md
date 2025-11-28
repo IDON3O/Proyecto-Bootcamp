@@ -4,7 +4,7 @@ Proyecto Final de Bootcamp > Tu compañero inteligente para planificar y disfrut
 
 🚀 Despliegue (Demo)
 
-Puedes ver la aplicación funcionando en vivo aquí:
+Puedes ver la aplicación funcionando en vivo aquí: https://github.com/IDON3O/Proyecto-Bootcamp
 
 👉 Visitar Asistente Turístico
 
@@ -33,6 +33,8 @@ Las sugerencias y pull requests son bienvenidas. Para cambios importantes, por f
 [Julian Osorio / IDON3O] - Desarrollo Inicial - Perfil de GitHu
 [Jhon Lemus / Jhonlemus05] - Desarrollo Inicial - Perfil de GitHu
 [Juan Aguirre / NekoCamiloAV] - Desarrollo Inicial - Perfil de GitHu
+[Juan Vanegas / ] - Desarrollo Inicial - Perfil de GitHu
+
 
 
 
